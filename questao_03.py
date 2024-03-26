@@ -1,0 +1,11 @@
+nome_maquina = str("Nintendo Entertainment System")
+tempo_uso = int("24")
+ligado = bool(True)
+
+print()
+print(nome_maquina)
+print(type(nome_maquina))
+print(tempo_uso)
+print(type(tempo_uso))
+print(ligado)
+print(type(ligado))
